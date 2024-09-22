@@ -1,0 +1,12 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://cjs6e441ejfu4"]
+
+[sub_resource type="MeshTexture" id="MeshTexture_n3xe8"]
+
+[resource]
+cull_mode = 2
+shading_mode = 2
+diffuse_mode = 2
+albedo_color = Color(0.57799, 0.333619, 2.88785e-07, 1)
+albedo_texture = SubResource("MeshTexture_n3xe8")
+metallic_specular = 1.0
+distance_fade_max_distance = 0.0
